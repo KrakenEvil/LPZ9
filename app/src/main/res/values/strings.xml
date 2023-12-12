@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Activity1</string>
+    <string name="textView_label">Это случайное число между 0 и %1d</string>
+    <string name="textView_random">R</string>
+    <string name="random_heading">Это случайное число между 0 и %1d</string>
+</resources>
